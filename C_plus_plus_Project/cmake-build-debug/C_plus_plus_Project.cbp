@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_plus_plus_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\..\opt\OpenCV\;CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\;CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\;CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\OpenCV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_plus_plus_Project">
+				<Option output="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/C_plus_plus_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/ImageFiltering"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/ImageFiltering/hdr"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/hdr"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/opt/OpenCV/3.6/include"/>
+					<Add directory="/opt/OpenCV/3.6/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_plus_plus_Project"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_plus_plus_Project/fast">
+				<Option output="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/C_plus_plus_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/ImageFiltering"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/ImageFiltering/hdr"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util"/>
+					<Add directory="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/hdr"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/opt/OpenCV/3.6/include"/>
+					<Add directory="/opt/OpenCV/3.6/include/opencv"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_plus_plus_Project/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/ImageFiltering/hdr/AnisotropicGaussianFilter.h">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/TextGraphichSeperationBulk.cpp">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/TextGraphichSeperationBulk.h">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/TextGraphicsSeperation.cpp">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/model.yml">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/BasicAlgo.cpp">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/DirectoryHandler.cpp">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/hdr/BasicAlgo.h">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/util/hdr/DirectoryHandler.hpp">
+			<Option target="C_plus_plus_Project"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/../../../../../../opt/OpenCV/3.6/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/../../../../../../opt/OpenCV/3.6/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/../../../../../../opt/OpenCV/3.6/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/mondal/Documents/Project_Work/Binarization_fuzzy_c-means/C_plus_plus_Project/../../../../../../opt/OpenCV/3.6/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\opt\OpenCV\3.6\share\OpenCV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

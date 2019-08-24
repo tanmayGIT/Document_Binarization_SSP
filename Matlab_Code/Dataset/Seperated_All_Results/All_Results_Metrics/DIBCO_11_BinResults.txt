@@ -1,0 +1,336 @@
+
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW1_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW1_GT.png "HW1_GT_RWeights.dat" "HW
+1_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       83.2774
+pseudo F-Measure (Fps)  :       89.8911
+PSNR                    :       14.3174
+DRD                     :       6.8906
+Recall                  :       72.7163
+Precision               :       97.4274
+pseudo-Recall (Rps)     :       83.5924
+pseudo-Precision (Pps)  :       97.2163
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW2_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW2_GT.png "HW2_GT_RWeights.dat" "HW
+2_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       86.9025
+pseudo F-Measure (Fps)  :       91.4265
+PSNR                    :       19.6741
+DRD                     :       3.3036
+Recall                  :       77.8551
+Precision               :       98.3293
+pseudo-Recall (Rps)     :       85.7453
+pseudo-Precision (Pps)  :       97.914
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW3_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW3_GT.png "HW3_GT_RWeights.dat" "HW
+3_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       86.8284
+pseudo F-Measure (Fps)  :       92.8969
+PSNR                    :       17.4841
+DRD                     :       3.1541
+Recall                  :       78.0295
+Precision               :       97.8639
+pseudo-Recall (Rps)     :       88.8342
+pseudo-Precision (Pps)  :       97.3491
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW4_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW4_GT.png "HW4_GT_RWeights.dat" "HW
+4_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       82.513
+pseudo F-Measure (Fps)  :       88.3729
+PSNR                    :       15.4498
+DRD                     :       3.9778
+Recall                  :       72.1941
+Precision               :       96.2736
+pseudo-Recall (Rps)     :       82.3353
+pseudo-Precision (Pps)  :       95.366
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW5_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW5_GT.png "HW5_GT_RWeights.dat" "HW
+5_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       91.8755
+pseudo F-Measure (Fps)  :       97.7808
+PSNR                    :       17.6866
+DRD                     :       2.3441
+Recall                  :       85.7164
+Precision               :       98.9883
+pseudo-Recall (Rps)     :       96.9151
+pseudo-Precision (Pps)  :       98.662
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW6_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW6_GT.png "HW6_GT_RWeights.dat" "HW
+6_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       62.3819
+pseudo F-Measure (Fps)  :       65.809
+PSNR                    :       13.9002
+DRD                     :       8.7816
+Recall                  :       46.0754
+Precision               :       96.5528
+pseudo-Recall (Rps)     :       50.1073
+pseudo-Precision (Pps)  :       95.8421
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW7_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW7_GT.png "HW7_GT_RWeights.dat" "HW
+7_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       84.885
+pseudo F-Measure (Fps)  :       90.4539
+PSNR                    :       19.3438
+DRD                     :       3.8156
+Recall                  :       79.4203
+Precision               :       91.1573
+pseudo-Recall (Rps)     :       91.1359
+pseudo-Precision (Pps)  :       89.7819
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_1\HW8_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\HW8_GT.png "HW8_GT_RWeights.dat" "HW
+8_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       86.8025
+pseudo F-Measure (Fps)  :       94.6606
+PSNR                    :       19.4935
+DRD                     :       2.9455
+Recall                  :       77.7789
+Precision               :       98.1947
+pseudo-Recall (Rps)     :       91.8053
+pseudo-Precision (Pps)  :       97.6993
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>cmd/k
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_1>
+
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result>cd C:\Users\Tanmoy\Desktop\Sepera
+ted_Final_Result\DIBCO_11\GT_2\
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>for /R %f in (*.bmp
+) do ("C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metric
+s.exe" "%f" C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\AlgoResult\%
+~nf.png "%~nf_RWeights.dat" "%~nf_PWeights.dat" )
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR1_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR1_GT.png "PR1_GT_RWeights.dat" "PR
+1_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       86.7419
+pseudo F-Measure (Fps)  :       95.3765
+PSNR                    :       14.0203
+DRD                     :       6.3063
+Recall                  :       77.0356
+Precision               :       99.2467
+pseudo-Recall (Rps)     :       91.8735
+pseudo-Precision (Pps)  :       99.1572
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR2_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR2_GT.png "PR2_GT_RWeights.dat" "PR
+2_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       79.5719
+pseudo F-Measure (Fps)  :       88.8268
+PSNR                    :       13.6184
+DRD                     :       6.731
+Recall                  :       72.2972
+Precision               :       88.4743
+pseudo-Recall (Rps)     :       90.1482
+pseudo-Precision (Pps)  :       87.5435
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR3_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR3_GT.png "PR3_GT_RWeights.dat" "PR
+3_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       86.0163
+pseudo F-Measure (Fps)  :       97.1904
+PSNR                    :       13.4316
+DRD                     :       4.4897
+Recall                  :       75.7112
+Precision               :       99.5687
+pseudo-Recall (Rps)     :       95.0478
+pseudo-Precision (Pps)  :       99.4319
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR4_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR4_GT.png "PR4_GT_RWeights.dat" "PR
+4_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       84.915
+pseudo F-Measure (Fps)  :       96.3185
+PSNR                    :       15.2739
+DRD                     :       6.3298
+Recall                  :       73.8566
+Precision               :       99.868
+pseudo-Recall (Rps)     :       93.0404
+pseudo-Precision (Pps)  :       99.836
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR5_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR5_GT.png "PR5_GT_RWeights.dat" "PR
+5_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       83.631
+pseudo F-Measure (Fps)  :       94.1732
+PSNR                    :       14.0819
+DRD                     :       4.115
+Recall                  :       72.3198
+Precision               :       99.1366
+pseudo-Recall (Rps)     :       89.8857
+pseudo-Precision (Pps)  :       98.8903
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR6_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR6_GT.png "PR6_GT_RWeights.dat" "PR
+6_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       88.2915
+pseudo F-Measure (Fps)  :       91.3
+PSNR                    :       19.4804
+DRD                     :       5.1527
+Recall                  :       85.711
+Precision               :       91.0321
+pseudo-Recall (Rps)     :       93.3003
+pseudo-Precision (Pps)  :       89.3836
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR7_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR7_GT.png "PR7_GT_RWeights.dat" "PR
+7_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       88.1161
+pseudo F-Measure (Fps)  :       95.6654
+PSNR                    :       22.6579
+DRD                     :       3.6381
+Recall                  :       81.3561
+Precision               :       96.1011
+pseudo-Recall (Rps)     :       96.167
+pseudo-Precision (Pps)  :       95.169
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>("C:\Users\Tanmoy\D
+esktop\Seperated_Final_Result\DIBCO_metrics\DIBCO_metrics.exe" "C:\Users\Tanmoy\
+Desktop\Seperated_Final_Result\DIBCO_11\GT_2\PR8_GT.bmp" C:\Users\Tanmoy\Desktop
+\Seperated_Final_Result\DIBCO_11\AlgoResult\PR8_GT.png "PR8_GT_RWeights.dat" "PR
+8_GT_PWeights.dat" )
+
+show_errorB =
+
+non 1-bit, continuing
+
+
+F-Measure               :       76.1545
+pseudo F-Measure (Fps)  :       86.5649
+PSNR                    :       12.7235
+DRD                     :       5.6379
+Recall                  :       61.9503
+Precision               :       98.81
+pseudo-Recall (Rps)     :       77.2144
+pseudo-Precision (Pps)  :       98.4922
+
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>cmd/k
+C:\Users\Tanmoy\Desktop\Seperated_Final_Result\DIBCO_11\GT_2>
